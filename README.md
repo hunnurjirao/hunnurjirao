@@ -18,11 +18,12 @@ Currently Looking for a Machine Learning Engineer role.
 - Tensorflow & Keras
 
 ## Contact
-
+#### Mobile: +91 9182530027
+#### email-id: hunnurjirao2000@gmail.com
 #### Website: https://hunnurjirao.netlify.app
 #### Linkedin: https://www.linkedin.com/in/hunnurjirao
-#### email-id: hunnurjirao2000@gmail.com
-#### Mobile: +91 9182530027
+#### YouTube: https://www.youtube.com/channel/UCJ58XYpCLKXPAjnLvO6CUlw
+
 
 
 
