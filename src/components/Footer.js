@@ -16,6 +16,7 @@ const Footer = () => {
                 <ul class="list-inline">
                     <li class="list-inline-item"><NavLink to="/">Home</NavLink></li>
                     <li class="list-inline-item"><NavLink to="/mlproj">Projects</NavLink></li>
+                    <li class="list-inline-item"><NavLink to="/blogs">Blogs</NavLink></li>
                     <li class="list-inline-item"><NavLink to="/contactUs">Contact</NavLink></li>
 
                 </ul>

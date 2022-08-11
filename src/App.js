@@ -4,6 +4,7 @@ import "./App.css"
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import Home from './components/Home';
+import Blogs from './components/Blogs';
 import Main from './components/Main';
 import MLProj from './components/MLProj';
 import Navbar from './components/Navbar';
@@ -22,8 +23,8 @@ function App() {
         <Route path='/mlproj'><MLProj /></Route>
         <Route path='/webproj'><WebProj /></Route>
         <Route path='/otherproj'><OtherProj /></Route>
+        <Route path='/blogs'><Blogs /></Route>
         <Route path='/contactus'><ContactUs /></Route>
-
       </Switch>
       <Footer />
     </div>

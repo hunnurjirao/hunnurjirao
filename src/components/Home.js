@@ -1,5 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
+// import 'Main.css'
 
 const Home = () => {
     return (
@@ -31,35 +32,33 @@ const Home = () => {
 
                     <div class="col-md-4 border-right">
                         <div class="cards">
-                            <NavLink to="/" className="div-navlink">
 
-                                <div class="first bg-white p-4 text-center"><img className='intro-img' src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-machine-learning-robotics-flaticons-lineal-color-flat-icons.png" alt='img' />
-                                    <h5>Machine Learning </h5>
-                                    <p class="line">Machine Learning Algorithms - Supervised and Unsupervised Learning</p>
-                                </div>
-                            </NavLink>
+                            <div class="first bg-white p-4 text-center"><img className='intro-img' src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-machine-learning-robotics-flaticons-lineal-color-flat-icons.png" alt='img' />
+                                <h5>Machine Learning </h5>
+                                <p class="line">Machine Learning Algorithms - Supervised and Unsupervised Learning</p>
+                            </div>
                         </div>
                     </div>
                     <div class="col-md-4 border-right">
                         <div class="cards">
-                            <NavLink to="/" className="div-navlink">
-                                <div class=" second bg-white p-4 text-center"> <img className='intro-img' src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-web-development-internet-marketing-flaticons-lineal-color-flat-icons-3.png" alt='img' />
-                                    <h5>Deep Learning</h5>
-                                    <p class="line">Convolutional Neural Networks, Recurrent Neural Networks, Natural Language Processing</p>
-                                </div>
-                            </NavLink>
+
+                            <div class=" second bg-white p-4 text-center"> <img className='intro-img' src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-web-development-internet-marketing-flaticons-lineal-color-flat-icons-3.png" alt='img' />
+                                <h5>Deep Learning</h5>
+                                <p class="line">Convolutional Neural Networks, Recurrent Neural Networks, Natural Language Processing</p>
+                            </div>
+
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="cards">
-                            <NavLink to="/" className="div-navlink">
 
-                                <div class=" third bg-white p-4 text-center"> <img className='intro-img' src="https://img.icons8.com/external-smashingstocks-hand-drawn-black-smashing-stocks/344/external-ai-security-cyber-attack-hacking-smashingstocks-hand-drawn-black-smashing-stocks-2.png" alt='img' />
-                                    <h5>Web Technologies</h5>
-                                    <p class="line">React JS, React Native, MongoDB, Python Flask,JavaScript, Web Scrapping</p>
-                                </div>
 
-                            </NavLink>
+                            <div class=" third bg-white p-4 text-center"> <img className='intro-img' src="https://img.icons8.com/external-smashingstocks-hand-drawn-black-smashing-stocks/344/external-ai-security-cyber-attack-hacking-smashingstocks-hand-drawn-black-smashing-stocks-2.png" alt='img' />
+                                <h5>Web Technologies</h5>
+                                <p class="line">React JS, React Native, MongoDB, Python Flask,JavaScript, Web Scrapping</p>
+                            </div>
+
+
                         </div>
                     </div>
                 </div>
