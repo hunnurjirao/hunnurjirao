@@ -23,8 +23,3 @@ Currently Looking for a Machine Learning Engineer role.
 #### Website: https://hunnurjirao.netlify.app
 #### Linkedin: https://www.linkedin.com/in/hunnurjirao
 #### YouTube: https://www.youtube.com/channel/UCJ58XYpCLKXPAjnLvO6CUlw
-
-
-
-
-
