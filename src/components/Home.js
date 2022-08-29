@@ -11,7 +11,9 @@ const Home = () => {
                     <div className="row">
                         <div className="col-lg-8 mx-auto">
                             <h2> I'M <b>K HUNNURJI RAO</b></h2>
-                            <p className="text-muted lead">A Machine Learning Intern, who has experience in building end-to-end projects and able to build predictive models. Ready to apply my skills, work with a great team in an organization and simultaneously improve/update my skills in Machine Learning.</p>
+                            <p className="text-muted lead">Passionate in the field of artificial Intelligence with excellent Machine Learning, Deep Learning 
+                                                            and NLP knowledge along with good Math and statistics skills. Able to build end-to-end Machine Learning projects from scratch and deploy   
+                                                            it </p>
                         </div>
                     </div>
                 </div>
