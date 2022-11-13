@@ -2,7 +2,6 @@
 
 This is K HUNNURJI RAO, who is passionate to work in the field of Artificial Intelligence.
 
-Currently Looking for a Machine Learning Engineer role.
 
 ## Skills 💡
 
