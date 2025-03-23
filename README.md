@@ -17,7 +17,6 @@ This is K HUNNURJI RAO, who is passionate to work in the field of Artificial Int
 - Tensorflow & Keras
 
 ## Contact
-#### Mobile: +91 9182530027
 #### email-id: hunnurjirao2000@gmail.com
 #### Website: https://hunnurjirao.netlify.app
 #### Linkedin: https://www.linkedin.com/in/hunnurjirao
