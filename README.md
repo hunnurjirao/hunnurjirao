@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:4285F4&height=180&section=header&text=K%20Hunnurji%20Rao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Data%20Engineer%20%C2%B7%20GCP-Native%20%C2%B7%20Healthcare%20AI&descSize=16&descAlignY=58&descAlign=62"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:4285F4&height=180&section=header&text=K%20Hunnurji%20Rao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Data%20Engineer%20%C2%B7%20GCP-Native%20%C2%B7%20Healthcare%20AI&descSize=16&descAlignY=58&descAlign=62"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Building+pipelines+that+stay+correct;Pub%2FSub+%E2%86%92+Beam+%E2%86%92+BigQuery+at+scale;HIPAA+%26+SOC2-compliant+data+architecture" alt="Building pipelines that stay correct"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=620&lines=Building+pipelines+that+stay+correct;Pub%2FSub+%E2%86%92+Beam+%E2%86%92+BigQuery+at+scale;HIPAA+%26+SOC2-compliant+data+architecture)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://linkedin.com/in/hunnurjirao"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://youtube.com/@rajahunnur"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://instagram.com/hunnur.ai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://cloud.google.com/certification/cloud-engineer"><img src="https://img.shields.io/badge/GCP%20ACE%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP ACE"/></a>
-<img src="https://img.shields.io/badge/Bengaluru%2C%20India-orange?style=for-the-badge" alt="Location"/>
+<p align="center">
+  <a href="https://linkedin.com/in/hunnurjirao"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://youtube.com/@rajahunnur"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/hunnur.ai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://cloud.google.com/certification/cloud-engineer"><img src="https://img.shields.io/badge/GCP%20ACE%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP ACE"/></a>
+  <img src="https://img.shields.io/badge/Bengaluru%2C%20India-orange?style=for-the-badge" alt="Location"/>
+</p>
 
 </div>
 
@@ -44,7 +46,7 @@ I build and own data infrastructure **end-to-end** — pipeline design, complian
 
 📊 **Production battle scars** — silent corruption, late-data, schema drift, cold starts
 
-🎬 **Content creator** — production field guides on [YouTube](https://youtube.com/@rajahunnnur) & [Instagram](https://instagram.com/hunnur.ai)
+🎬 **Content creator** — production field guides on [YouTube](https://youtube.com/@rajahunnur) & [Instagram](https://instagram.com/hunnur.ai)
 
 </td>
 </tr>
@@ -168,7 +170,7 @@ I write **production field guides** — not hello-world tutorials. Real failures
 </table>
 
 <p align="center">
-  <a href="https://youtube.com/@rajahunnnur"><img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://youtube.com/@rajahunnur"><img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://instagram.com/hunnur.ai"><img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
@@ -237,7 +239,7 @@ I'm open to **senior data engineering roles** at product-driven companies where 
 <br/>
 
 <a href="https://linkedin.com/in/hunnurjirao"><img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@rajahunnnur"><img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://youtube.com/@rajahunnur"><img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://instagram.com/hunnur.ai"><img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
