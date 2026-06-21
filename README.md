@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:4285F4&height=180&section=header&text=K%20Hunnurji%20Rao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Data%20Engineer%20%C2%B7%20GCP-Native%20%C2%B7%20Healthcare%20AI&descSize=16&descAlignY=58&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:4285F4&height=180&section=header&text=K%20Hunnurji%20Rao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Data%20Engineer%20%C2%B7%20GCP-Native%20%C2%B7%20Healthcare%20AI&descSize=16&descAlignY=58&descAlign=50"/>
 </p>
 
 <p align="center">
@@ -28,7 +28,6 @@ role: Senior Data Engineer
 company: VoiceCare.ai
 location: Bengaluru, India
 focus: [GCP, Streaming Pipelines, Healthcare AI, HIPAA/SOC2]
-currently_learning: [Spark Internals, dbt, Iceberg, Flink, Data Vault 2.0]
 ```
 
 I build and own data infrastructure **end-to-end** — pipeline design, compliance architecture, and everything in between — at [VoiceCare.ai](https://voicecare.ai), a healthcare AI startup in Bengaluru.
