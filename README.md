@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/hunnurjirao"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://youtube.com/@rajahunnnur"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://youtube.com/@rajahunnur"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://instagram.com/hunnur.ai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://cloud.google.com/certification/cloud-engineer"><img src="https://img.shields.io/badge/GCP%20ACE%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP ACE"/></a>
 <img src="https://img.shields.io/badge/Bengaluru%2C%20India-orange?style=for-the-badge" alt="Location"/>
@@ -237,7 +237,7 @@ I'm open to **senior data engineering roles** at product-driven companies where 
 <br/>
 
 <a href="https://linkedin.com/in/hunnurjirao"><img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@rajahunnur"><img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://youtube.com/@rajahunnnur"><img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://instagram.com/hunnur.ai"><img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
